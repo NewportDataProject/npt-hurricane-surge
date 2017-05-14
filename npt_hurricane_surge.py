@@ -19,7 +19,7 @@ filepath = './data/shapefiles/nwptHIA09.shp'
 # Define RI CRD dict so that fiona can build a pyproj string
 crs = {'proj': 'tmerc',
        'lat_0': '41.08333333333334',
-       'lon_0': '71.5',
+       'lon_0': '-71.5',
        'k': '0.99999375',
        'x_0': '100000',
        'y_0': '0',
