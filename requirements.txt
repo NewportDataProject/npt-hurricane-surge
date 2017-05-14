@@ -12,10 +12,6 @@ matplotlib==2.0.2
 munch==2.1.1
 networkx==1.11
 numpy==1.12.1
-osmapi==0.8.1
-osmnx==0.5.1
-overpass==0.5.6
-overpy==0.4
 pandas==0.20.1
 psycopg2==2.6.2
 pyparsing==2.2.0
