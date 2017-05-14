@@ -40,6 +40,6 @@ for sr in reader.shapeRecords():
 hur_data = gpd.GeoDataFrame.from_features(buffer, crs=crs)
 
 # Convert to WGS84
-hur_data.to_crs(crs={'init': 'epsg:4326'})
+hur_data = hur_data.to_crs(crs={'init': 'epsg:4326'})
 
 hur_data.to_file('./data/hur_data.geojson', driver="GeoJSON")
