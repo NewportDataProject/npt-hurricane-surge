@@ -10,3 +10,11 @@ Metadata for the dataset can be found [here](http://www.rigis.org/geodata/plan/i
 ## Analysis
 ### Road Impacts
 View a map of [impacted roads](/data/road_impact.geojson) of hurricane surges, based on [OpenStreetMap](http://www.openstreetmap.org) data.
+
+
+## Roadmap
+Some things to try in the future...
+### Political Impact
+Map hurricane surge to congressional districts (use statewide datasets).
+### Sociological Impact
+Based on census data, is there any socioeconomic bias to storm impact?
