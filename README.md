@@ -17,4 +17,4 @@ Some things to try in the future...
 ### Political Impact
 Map hurricane surge to congressional districts (use statewide datasets).
 ### Sociological Impact
-Based on census data, is there any socioeconomic bias to storm impact?
+Based on census data, is there any socioeconomic bias to storm impact? Working on the analysis in [this script](/census_impact.py)

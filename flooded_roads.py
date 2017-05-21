@@ -35,11 +35,8 @@ hur_data = hur_data.to_crs(crs={'init': 'epsg:4326'})
 
 
 # Get road map data
-
 api = overpass.API()
-
-box = hur_data.total_bounds
-
+box = hur_data.total_bounds  # Get the total bounds of the hurricane dataset
 map_query = overpass.MapQuery(box[1], box[0], box[3], box[2])  # box edges are west, south, north, east
 response = api.Get(map_query)
 map_data = gpd.GeoDataFrame.from_features(response['features'])

@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>U.S. Census Bureau, The Providence Plan</origin>
+<pubdate>20120125</pubdate>
+<title>U.S. Census Bureau 2010 Summary File 1 Indicators</title>
+<geoform>vector digital data</geoform>
+<pubinfo>
+<pubplace>Providence, Rhode Island</pubplace>
+<publish>The Providence Plan</publish>
+</pubinfo>
+<othercit>Suggested bibliographic reference: RIGIS, 2012. U.S. Census Bureau 2010 Summary File 1 Indicators. Rhode Island Geographic Information System (RIGIS) Data Distribution System, URL: http://www.rigis.org, Environmental Data Center, University of Rhode Island, Kingston, Rhode Island (last date accessed: 9 October 2014).</othercit>
+<onlink>http://www.rigis.org</onlink>
+<lworkcit>
+<citeinfo>
+<origin>Rhode Island Geographic Information System (RIGIS)</origin>
+<pubdate>1993</pubdate>
+<title>Rhode Island Geographic Information System (RIGIS) Data Distribution System</title>
+<onlink>http://www.rigis.org</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</citation>
+<descript>
+<abstract>Selected housing and population indicators derived from the "2010 Census Summary File 1" published by the U.S. Census Bureau, summarized on a census block basis.  All indicators have numerators and denominators except in cases of total population counts and averages. Numerators are denoted with "_N" and Denominators with "_D".</abstract>
+<purpose>Demographic analysis and visualization.  Users are strongly advised to thoroughly read this metadata record and 2010 Summary File 1 documentation available from the U.S. Census Bureau at http://www.census.gov/prod/cen2010/doc/sf1.pdf.  A copy of this technical documentation is included with the data download file available from RIGIS.</purpose>
+<supplinf>
+The primary data source, "2010 Census Summary File 1" published by the U.S. Census Bureau, may be accessed online via American Fact Finder (http://factfinder2.census.gov) or directly via http://www2.census.gov/census_2010/04-Summary_File_1/Rhode_Island.
+The original TIGER/Line shapefile that serves as the spatial reference for these data may be downloaded from http://www.census.gov/geo/www/tiger/tgrshp2010/tgrshp2010.html.
+</supplinf>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>2010</caldate>
+</sngdate>
+</timeinfo>
+<current>publication date</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>None planned</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-71.911780</westbc>
+<eastbc>-71.084810</eastbc>
+<northbc>42.018859</northbc>
+<southbc>41.095145</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Categories</themekt>
+<themekey>society</themekey>
+</theme>
+<theme>
+<themekt>none</themekt>
+<themekey>census</themekey>
+<themekey>summary file 1</themekey>
+<themekey>SF1</themekey>
+<themekey>population</themekey>
+<themekey>housing</themekey>
+<themekey>demographics</themekey>
+<themekey>census block</themekey>
+</theme>
+<place>
+<placekt>none</placekt>
+<placekey>Rhode Island</placekey>
+</place>
+</keywords>
+<accconst>None.</accconst>
+<useconst>
+This dataset is provided 'as is.’  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.
+Please acknowledge both RIGIS and the primary producer(s) of this dataset in any derived products.  Versions of the RIGIS logo suitable for both printed and web-based products are available at http://www.rigis.org/logos.
+</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>Rhode Island Division of Planning</cntorg>
+<cntper>Vincent Flood</cntper>
+</cntorgp>
+<cntpos>Supervising Planner</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>One Capitol Hill</address>
+<city>Providence</city>
+<state>RI</state>
+<postal>02908-5872</postal>
+</cntaddr>
+<cntvoice>401-222-1243</cntvoice>
+<cntemail>vincent.flood@doa.ri.gov</cntemail>
+</cntinfo>
+</ptcontac>
+<datacred>U.S. Census Bureau; The Providence Plan</datacred>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr>none</attraccr>
+</attracc>
+<logic>none</logic>
+<complete>none</complete>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>U.S. Department of Commerce, U.S. Census Bureau, Geography Division</origin>
+<pubdate>2010</pubdate>
+<title>TIGER/Line Shapefile, 2010, 2010 state, Rhode Island, 2010 Census  Block State-based</title>
+<edition>2010</edition>
+<geoform>vector digital data</geoform>
+<onlink>http://www.census.gov/geo/www/tiger</onlink>
+</citeinfo>
+</srccite>
+<typesrc>vector digital data</typesrc>
+<srctime>
+<timeinfo>
+<rngdates>
+<begdate>201001</begdate>
+<enddate>201007</enddate>
+</rngdates>
+</timeinfo>
+</srctime>
+<srccitea>RICensusBlocks</srccitea>
+<srccontr>spatial data</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>U.S. Census Bureau</origin>
+<pubdate>201106</pubdate>
+<title>2010 Census Summary File 1 Rhode Island / prepared by the U.S. Census Bureau, 2011.</title>
+<geoform>tabular digital data</geoform>
+<pubinfo>
+<pubplace>Washington, D.C.</pubplace>
+<publish>U.S. Census Bureau</publish>
+</pubinfo>
+<onlink>http://www.census.gov</onlink>
+</citeinfo>
+</srccite>
+<typesrc>online</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2010</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>publication date</srccurr>
+</srctime>
+<srccitea>SF1</srccitea>
+<srccontr>tabular data</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>Downloaded 2010 Summary File 1 tabular data and census block spatial data from the U.S. Census Bureau.  Reprojected census block data to Rhode Island State Plane coordinate system.  Extracted selected indicators from Summary File 1 database, joined to census block spatial data, created, named, and calculated appropriate fields as necessary.  Please note that each demographic attribute description contains information about which SF1 tables were used to calculate each individual field.</procdesc>
+<srcused>SF1, RICensusBlocks</srcused>
+<procdate>2011</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>The Providence Plan</cntorg>
+<cntper>Jessica Cigna</cntper>
+</cntorgp>
+<cntpos>Urban Information Specialist</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>10 Davol Square, Suite 300</address>
+<city>Providence</city>
+<state>RI</state>
+<postal>02903</postal>
+</cntaddr>
+<cntemail>jcigna@provplan.org</cntemail>
+<cntinst>email preferred</cntinst>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Data contributed to RIGIS by The Providence Plan.  Metadata written.  Please note that those original attribute definitions sourced from the original U.S. Census Bureau metadata record for the source 2010 Census Block boundaries have been duly credited.</procdesc>
+<procdate>20120309</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>University of Rhode Island Environmental Data Center</cntorg>
+<cntper>Greg Bonynge</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>1 Greenhouse Road</address>
+<city>Kingston</city>
+<state>RI</state>
+<postal>02881</postal>
+</cntaddr>
+<cntvoice>401-874-2180</cntvoice>
+<cntemail>greg@edc.uri.edu</cntemail>
+<cntinst>email preferred</cntinst>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Updated Point of Contact information for this dataset from "Jim Lucht of the Providence Plan" to "Vincent Flood."</procdesc>
+<procdate>20150528</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>University of Rhode Island Environmental Data Center</cntorg>
+<cntper>Erica Tefft</cntper>
+</cntorgp>
+<cntpos>Research Associate</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>Coastal Institute</address>
+<address>1 Greenhouse Road</address>
+<city>Kingston</city>
+<state>RI</state>
+<postal>02881</postal>
+</cntaddr>
+<cntvoice>401-874-5054</cntvoice>
+<cntemail>erica@edc.uri.edu</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>GT-polygon composed of chains</sdtstype>
+<ptvctcnt>25181</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<planar>
+<mapproj>
+<mapprojn>NAD 1983 StatePlane Rhode Island FIPS 3800 Feet</mapprojn>
+<transmer>
+<sfctrmer>0.99999375</sfctrmer>
+<longcm>-71.5</longcm>
+<latprjo>41.08333333333334</latprjo>
+<feast>328083.3333333333</feast>
+<fnorth>0.0</fnorth>
+</transmer>
+</mapproj>
+<planci>
+<plance>coordinate pair</plance>
+<coordrep>
+<absres>0.000000007286382608384659</absres>
+<ordres>0.000000007286382608384659</ordres>
+</coordrep>
+<plandu>Foot_US</plandu>
+</planci>
+</planar>
+<geodetic>
+<horizdn>D North American 1983</horizdn>
+<ellips>GRS 1980</ellips>
+<semiaxis>6378137.0</semiaxis>
+<denflat>298.257222101</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>TABBLOCK10.shp</enttypl>
+<enttypd>2010 Census Block State-based</enttypd>
+<enttypds>U.S. Census Bureau</enttypds>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>STATEP10</attrlabl>
+<attrdef>2010 Census state Federal Information Processing Standards (FIPS) codes</attrdef>
+<attrdefs>U.S. Census Bureau</attrdefs>
+<attrdomv>
+<codesetd>
+<codesetn>INCITS.38-200x (R2004), Codes for the Identification of the States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 5-2)</codesetn>
+<codesets>U.S. Census Bureau</codesets>
+</codesetd>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>COUNTYP10</attrlabl>
+<attrdef>2010 Census county Federal Information Processing Standards (FIPS) code</attrdef>
+<attrdefs>U.S. Census Bureau</attrdefs>
+<attrdomv>
+<codesetd>
+<codesetn>INCITS.31-200x (R2007), Codes for the Identification of the Counties and Equivalent Areas of the United States, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 6-4)</codesetn>
+<codesets>U.S. Census Bureau</codesets>
+</codesetd>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>2010 Census census tract code</attrlabl>
+<attrdef>RI Tract Census 2010 ID</attrdef>
+<attrdefs>U.S. Census Bureau</attrdefs>
+<attrdomv>
+<edom>
+<edomv>000000</edomv>
+<edomvd>
+Water tract in some coastal and Great Lakes water and
+territorial sea
+</edomvd>
+<edomvds>U.S. Census</edomvds>
+</edom>
+<edom>
+<edomv>000100 to 998999</edomv>
+<edomvd>Census tract number</edomvd>
+<edomvds>U.S. Census Bureau</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>BLOCKCE10</attrlabl>
+<attrdef>2010 Census tabulation block number</attrdef>
+<attrdefs>U.S. Census Bureau</attrdefs>
+<attrdomv>
+<edom>
+<edomv>0001 to 9999</edomv>
+<edomvd>tabulation block number</edomvd>
+<edomvds>U.S. Census Bureau</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>GEOID10</attrlabl>
+<attrdef>Block identifier; a concatenation of 2010 Census state Federal Information Processing Standards (FIPS) code, county FIPS code, census tract code, and tabulation block number</attrdef>
+<attrdefs>U.S. Census Bureau</attrdefs>
+<attrdomv>
+<codesetd>
+<codesetn>INCITS.38-200x (R2004), Codes for the Identification of the States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 5-2), INCITS.31-200x (R2007), Codes for the Identification of the Counties and Equivalent Areas of the United States, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 6-4), the census tract code that appears in TRACTCE10 and the tabulation block number that appears in BLOCKCE10</codesetn>
+<codesets>U.S. Census Bureau</codesets>
+</codesetd>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>NAME10</attrlabl>
+<attrdef>2010 Census tabulation block name; a concatenation of "Block", and the current tabulation block number</attrdef>
+<attrdefs>U.S. Census Bureau</attrdefs>
+<attrdomv>
+<udom>Refer to the tabulation block number that appears in BLOCKCE10</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>ALAND10</attrlabl>
+<attrdef>2010 Census land area (square meters)</attrdef>
+<attrdefs>U.S. Census Bureau</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>0</rdommin>
+<rdommax>9,999,999,999,999</rdommax>
+<attrunit>square meter</attrunit>
+</rdom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>AWATER10</attrlabl>
+<attrdef>2010 Census water area (square meters)</attrdef>
+<attrdefs>U.S. Census Bureau</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>0</rdommin>
+<rdommax>9,999,999,999,999</rdommax>
+<attrunit>square meter</attrunit>
+</rdom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>ASQMILE</attrlabl>
+<attrdef>Area of Land in Square Miles for Each Block</attrdef>
+<attrdefs>ProvPlan</attrdefs>
+</attr>
+<attr>
+<attrlabl>INTPTLAT10</attrlabl>
+<attrdef>2010 Census latitude of the internal point</attrdef>
+<attrdefs>U.S. Census Bureau</attrdefs>
+<attrdomv>
+<edom>
+<edomv>00</edomv>
+<edomvd>Blank</edomvd>
+<edomvds>U.S. Census Bureau</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>INTPTLON10</attrlabl>
+<attrdef>2010 Census longitude of the internal point</attrdef>
+<attrdefs>U.S. Census Bureau</attrdefs>
+<attrdomv>
+<edom>
+<edomv>00</edomv>
+<edomvd>Blank</edomvd>
+<edomvds>U.S. Census Bureau</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>WATONLY</attrlabl>
+<attrdef>Flag for 2010 Blocks With Water Area Only and No Population or Housing Units</attrdef>
+<attrdefs>ProvPlan</attrdefs>
+</attr>
+<attr>
+<attrlabl>RIREP02</attrlabl>
+<attrdef>RI House of Representatives District (circa 2002)</attrdef>
+<attrdefs>ProvPlan</attrdefs>
+</attr>
+<attr>
+<attrlabl>RISEN04</attrlabl>
+<attrdef>RI Senate District (circa 2004)</attrdef>
+<attrdefs>ProvPlan</attrdefs>
+</attr>
+<attr>
+<attrlabl>RIMUNI10</attrlabl>
+<attrdef>RI Municipality (circa 2010)</attrdef>
+<attrdefs>ProvPlan</attrdefs>
+</attr>
+<attr>
+<attrlabl>LOGRECNO</attrlabl>
+<attrdef>Logical Record Number for SF1 2010 Census Data</attrdef>
+<attrdefs>ProvPlan</attrdefs>
+</attr>
+<attr>
+<attrlabl>POP1</attrlabl>
+<attrdef>DESCRIPTION: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0010001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP2_N</attrlabl>
+<attrdef>DESCRIPTION: White Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0030002;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP2_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for White Population: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0030001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP3_N</attrlabl>
+<attrdef>DESCRIPTION: Black or African American Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0030003;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP3_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Black or African American Population: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0030001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP4_N</attrlabl>
+<attrdef>DESCRIPTION: American Indian and Alaska Native Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0030004;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP4_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for American Indian and Alaska Native Population: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0030001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP5_N</attrlabl>
+<attrdef>DESCRIPTION: Asian Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0030005;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP5_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Asian Population: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0030001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP6_N</attrlabl>
+<attrdef>DESCRIPTION: Asian or Native Hawaiian and Other Pacific Islander Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0030005+P0030006;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP6_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Asian or Native Hawaiian and Other Pacific Islander Population: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0030001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP7_N</attrlabl>
+<attrdef>DESCRIPTION: Native Hawaiian and Other Pacific Islander Population ; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0030006;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP7_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Native Hawaiian and Other Pacific Islander Population: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0030001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP8_N</attrlabl>
+<attrdef>DESCRIPTION: Other Race Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0030007;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP8_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Other Race Population: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0030001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP9_N</attrlabl>
+<attrdef>DESCRIPTION: Two or More Race Population ; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0030008;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP9_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Two or More Race Population: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0030001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP10_N</attrlabl>
+<attrdef>DESCRIPTION: Hispanic Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090002;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP10_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Hispanic Population: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP11_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Hispanic Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090003;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP11_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Hispanic Population: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP12_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Hispanic Population Of One Race; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090004;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP12_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Hispanic  Population Of One Race:  Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP13_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Hispanic White Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090005;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP13_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Hispanic White Population: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP14_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Hispanic Black or African American Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090006;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP14_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Hispanic Black or African American Population: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP15_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Hispanic American Indian and Alaska Native Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090007;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP15_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Hispanic American Indian and Alaska Native Population: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP16_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Hispanic Asian; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090008;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP16_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Hispanic Asian: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP17_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Hispanic Native Hawaiian and Other Pacific Islanders Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090009;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP17_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Hispanic Native Hawaiian and Other Pacific Islanders Population: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP18_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Hispanic Other Race Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090010;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP18_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Hispanic Other Race Population: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP19_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Hispanic Two or More Races Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090011;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP19_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Hispanic Two or More Races Population: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP20_N</attrlabl>
+<attrdef>DESCRIPTION: Hispanic Population 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110002;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP20_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Hispanic Population 18 Years and Over: Population 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP21_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Hispanic Population 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110003;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP21_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Hispanic Population 18 Years and Over: Population 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP22_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Hispanic One Race Population 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110004;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP22_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Hispanic One Race Population 18 Years and Over: Population 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP23_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Hispanic White Population 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110005;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP23_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Hispanic White Population 18 Years and Over: Population 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP24_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Hispanic Black or African American Population 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110006;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP24_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Hispanic Black or African American Population 18 Years and Over: Population 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP25_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Hispanic American Indian and Alaska Native Population 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110007;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP25_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Hispanic American Indian and Alaska Native Population 18 Years and Over: Population 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP26_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Hispanic Asian Population 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110008;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP26_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Hispanic Asian Population 18 Years and Over: Population 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP27_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Hispanic Native Hawaiian and Other Pacific Islander Population 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110009;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP27_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Hispanic Native Hawaiian and Other Pacific Islander Population 18 Years and Over: Population 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP28_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Hispanic Other Race Population 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110010;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP28_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Hispanic Other Race Population 18 Years and Over: Population 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP29_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Hispanic Two or More Races Population 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110011;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP29_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Hispanic Two or More Races Population 18 Years and Over: Population 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP30_N</attrlabl>
+<attrdef>DESCRIPTION: Male Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0120002;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP30_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Male Population: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0120001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP31_N</attrlabl>
+<attrdef>DESCRIPTION: Female Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0120026;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP31_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Female Population: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0120001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP32</attrlabl>
+<attrdef>DESCRIPTION: Population Density Per Square Mile; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): ASQMILE/P0010001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP33</attrlabl>
+<attrdef>DESCRIPTION: Density Of Population 18 Years and Over Per Square Mile; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): ASQMILE/P0110001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP34_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Hispanic Asian and Non-Hispanic Native Hawaiian and Other Pacific Islanders Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090008+P0090009;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP34_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Hispanic Asian and Non-Hispanic Native Hawaiian and Other Pacific Islanders Population: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0090001;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP35_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Hispanic Asian  and Non-Hispanic Native Hawaiian and Other Pacific Islanders 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110008 + P0110009;</attrdef>
+</attr>
+<attr>
+<attrlabl>POP35_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Hispanic Asian  and Non-Hispanic Native Hawaiian and Other Pacific Islanders 18 Years and Over: Population 18 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0110001;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE1_N</attrlabl>
+<attrdef>DESCRIPTION: Population 18 Years and Over ; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0120001 - [P0120003 + P0120004 + P0120005 + P0120006 + P0120027 + P0120028 + P0120029 + P0120030];</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE1_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator Of Population 18 Years and Over: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0120001;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE2_N</attrlabl>
+<attrdef>DESCRIPTION: Under 18 Years Population ; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0120003 + P0120004 + P0120005 + P0120006 + P0120027 + P0120028 + P0120029 + P0120030;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE2_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Under Years 18 Population: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0120001;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE3_N</attrlabl>
+<attrdef>DESCRIPTION: Under 5 Years Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0120003 + P0120027;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE3_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Under 5 Years Population: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0120001;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE4</attrlabl>
+<attrdef>DESCRIPTION: Population 5 Years and Over and Under 18 Years; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0120004 + P0120005 + P0120006 + P0120028 + P0120029 + P0120030;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE5_N</attrlabl>
+<attrdef>DESCRIPTION: Population 18 Years and Over and Under 65 Years; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0120007 + P0120008 + P0120009 + P0120010 + P0120011 + P0120012 + P0120013 + P0120014 + P0120015 + P0120016 + P0120017+ P0120018 + P0120019 + P0120031 + P0120032 + P0120033 + P0120034 + P0120035 + P0120036 + P0120037 + P0120038 + P0120039 + P0120040 + P0120041 + P0120042 + P0120043;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE5_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Population 18 Years and Over and Under 65 Years: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0120001;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE6_N</attrlabl>
+<attrdef>DESCRIPTION: Population Of Males 18 Years and Over and Under 65 Years ; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0120007 + P0120008 + P0120009 + P0120010 + P0120011 + P0120012 + P0120013 + P0120014 + P0120015 + P0120016 + P0120017 + P0120018 + P0120019;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE6_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Population Of Males 18 Years and Over and Under 65 Years : Total Population 18 Yeasrs and Over and Under 65 Years; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0120007 + P0120008 + P0120009 + P0120010 + P0120011 + P0120012 + P0120013 + P0120014 + P0120015 + P0120016 + P0120017 + P0120018 + P0120019 + P0120031 + P0120032 + P0120033 + P0120034 + P0120035 + P0120036 + P0120037 + P0120038 + P0120039 + P0120040 + P0120041 + P0120042 + P0120043;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE7_N</attrlabl>
+<attrdef>DESCRIPTION: Population Of Females 18 Years and Over and Under 65 Years; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0120031 + P0120032 + P0120033 + P0120034 + P0120035 + P0120036 + P0120037 + P0120038 + P0120039 + P0120040 + P0120041 + P0120042 + P0120043;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE7_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Population Of Females 18 Years and Over and Under 65 Years: Total Population 18 Years and Over and Under 65 Years; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0120007 + P0120008 + P0120009 + P0120010 + P0120011 + P0120012 + P0120013 + P0120014 + P0120015 + P0120016 + P0120017 + P0120018 + P0120019 + P0120031 + P0120032 + P0120033 + P0120034 + P0120035 + P0120036 + P0120037 + P0120038 + P0120039 + P0120040 + P0120041 + P0120042 + P0120043;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE8_N</attrlabl>
+<attrdef>DESCRIPTION: Population 65 Years and Over; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0120020 +P0120021 + P0120022 + P0120023 + P0120024 + P0120025 + P0120044 + P0120045 + P0120046 + P0120047 + P0120048 + P0120049;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE8_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Population 65 Years and Over: Total Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0120001;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE9</attrlabl>
+<attrdef>DESCRIPTION: Median Age Of Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0130001;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE10</attrlabl>
+<attrdef>DESCRIPTION: Median Age Of Male Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0130002;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE11</attrlabl>
+<attrdef>DESCRIPTION: Median Age Of Female Population; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0130003;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE12_N</attrlabl>
+<attrdef>DESCRIPTION: Female Population Age 6 To 18; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0140030 + P0140031 + P0140032 + P0140033 + P0140034 + P0140035 + P0140036 + P0140037 + P0140038 + P0140039 + P0140040 + P0140041 + P0140042;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE12_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Female Population Age 6 To 18: Population Age 6 To 18; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0140009 + P0140010 + P0140011 + P0140012 + P0140013 + P0140014 + P0140015 + P0140016 + P0140017 + P0140018 + P0140019 + P0140020 + P0140021 + P0140030 + P0140031 + P0140032 + P0140033 + P0140034 + P0140035 + P0140036 + P0140037 + P0140038 + P0140039 + P0140040 + P0140041 + P0140042;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE13_N</attrlabl>
+<attrdef>DESCRIPTION: Male Population Age 6 To 18; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0140009 + P0140010 + P0140011 + P0140012 + P0140013 + P0140014 + P0140015 + P0140016 + P0140017 + P0140018 + P0140019 + P0140020 + P0140021;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE13_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Male Population Age 6 To 18: Population Age 6 To 18; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0140009 + P0140010 + P0140011 + P0140012 + P0140013 + P0140014 + P0140015 + P0140016 + P0140017 + P0140018 + P0140019 + P0140020 + P0140021 + P0140030 + P0140031 + P0140032 + P0140033 + P0140034 + P0140035 + P0140036 + P0140037 + P0140038 + P0140039 + P0140040 + P0140041 + P0140042;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE14</attrlabl>
+<attrdef>DESCRIPTION: Population Age 6 To 18; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0140009 + P0140010 + P0140011 + P0140012 + P0140013 + P0140014 + P0140015 + P0140016 + P0140017 + P0140018 + P0140019 + P0140020 + P0140021 + P0140030 + P0140031 + P0140032 + P0140033 + P0140034 + P0140035 + P0140036 + P0140037 + P0140038 + P0140039 + P0140040 + P0140041 + P0140042;</attrdef>
+</attr>
+<attr>
+<attrlabl>AGE15</attrlabl>
+<attrdef>DESCRIPTION: Population Age 0 To 18; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0140003 + P0140004 + P0140005 + P0140006 + P0140007 + P0140008 + P0140009 + P0140010 + P0140011 + P0140012 + P0140013 + P0140014 + P0140015 + P0140016 + P0140017 + P0140018 + P0140019 + P0140020 + P0140021 + P0140024 + P0140025 + P0140026 + P0140027 + P0140028 + P0140029 + P0140030 + P0140031 + P0140032 + P0140033 + P0140034 + P0140035 + P0140036 + P0140037 + P0140038 + P0140039 + P0140040 + P0140041 + P0140042;</attrdef>
+</attr>
+<attr>
+<attrlabl>GQ1</attrlabl>
+<attrdef>DESCRIPTION: Population in Group Quarters; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0290026;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH1</attrlabl>
+<attrdef>DESCRIPTION: Total Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0150001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH2_N</attrlabl>
+<attrdef>DESCRIPTION: Households With Non-Hispanic White Householder; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0150003;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH2_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Households With Non-Hispanic White Householder: Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0150001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH3_N</attrlabl>
+<attrdef>DESCRIPTION: Households With Black or African American Householder; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0150004+P0150012;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH3_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Households With Black or African American Householder: Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0150001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH4_N</attrlabl>
+<attrdef>DESCRIPTION: Households With American Indian and Alaska Native Householder; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0150005+P0150013;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH4_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Households With American Indian and Alaska Native Householder: Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0150001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH5_N</attrlabl>
+<attrdef>DESCRIPTION: Households With Asian and Native Hawaiian and Other Pacific Islander Householder; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0150006+P0150007+P0150014+P0150015;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH5_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Households With Asian and Native Hawaiian and Other Pacific Islander Householder: Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0150001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH6_N</attrlabl>
+<attrdef>DESCRIPTION: Households With Other Race Householder; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0150008+P0150016;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH6_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Households With Other Race Householder: Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0150001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH7_N</attrlabl>
+<attrdef>DESCRIPTION: Households With Two or More Races Householder; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0150009+P0150017;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH7_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Households With Two or More Races Householder: Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0150001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH8_N</attrlabl>
+<attrdef>DESCRIPTION: Households With Hispanic Householder; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0150010;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH8_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Households With Hispanic Householder; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0150001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH9</attrlabl>
+<attrdef>DESCRIPTION: Population in Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0160001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH10</attrlabl>
+<attrdef>DESCRIPTION: Average Household Size ; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0170001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH11_N</attrlabl>
+<attrdef>DESCRIPTION: 1-Person Male Household; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0190003;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH11_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for 1-Person Male Household: 1-Person Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0190002;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH12_N</attrlabl>
+<attrdef>DESCRIPTION: 1-Person Female Household; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0190004;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH12_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for 1-Person Female Household: 1-Person Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0190002;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH13_N</attrlabl>
+<attrdef>DESCRIPTION: Husband-Wife Households W/ Own Children Under 18 Years; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0190008;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH13_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Husband-Wife Households W/ Own Children Under 18 Years: Family Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0190006;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH14_N</attrlabl>
+<attrdef>DESCRIPTION: Husband-Wife Households W/Out Own Children Under 18 Years; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0190009;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH14_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Husband-Wife Households W/Out Own Children Under 18 Years: Family Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0190006;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH15_N</attrlabl>
+<attrdef>DESCRIPTION: Male Householder, No Wife Present W/ Own Children Under 18 Years; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0190012;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH15_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Male Householder, No Wife Present W/ Own Children Under 18 Years: Family Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0190006;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH16_N</attrlabl>
+<attrdef>DESCRIPTION: Female Householder, No Husband Present W/ Own Children Under 18 Years; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0190015;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH16_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Female Householder, No Husband Present W/ Own Children Under 18 Years: Family Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0190006;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH17_N</attrlabl>
+<attrdef>DESCRIPTION: Family Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0280002;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH17_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Family Households: Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0280001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH18_N</attrlabl>
+<attrdef>DESCRIPTION: Family Households W/ 6 or More People; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0280007 + P0280008;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH18_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Family Households W/ 6 or More People: Family Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0280002;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH19_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Family Households ; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0280009;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH19_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Family Households: Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0280001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH20_N</attrlabl>
+<attrdef>DESCRIPTION: Non-Family Households W/ 6 or More People; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0280015 + P0280016;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH20_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Non-Family Households W/ 6 or More People: Non-Family Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0280009;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH21</attrlabl>
+<attrdef>DESCRIPTION: Number Of Families; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0350001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH22</attrlabl>
+<attrdef>DESCRIPTION: Average Family Size ; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0370001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH23</attrlabl>
+<attrdef>DESCRIPTION: Children Under 18 Who Live With A Grandparent Householder; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0410001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH29_N</attrlabl>
+<attrdef>DESCRIPTION: Households With Asian Householder; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0150006+P0150014;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH29_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Households With Asian Householder: Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0150001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH30_N</attrlabl>
+<attrdef>DESCRIPTION: Households With Native Hawaiian and Other Pacific Islander Householder; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0150007+P0150015;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH30_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Households With Native Hawaiian and Other Pacific Islander Householder: Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0150001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH31_N</attrlabl>
+<attrdef>DESCRIPTION: Family Households W/Own Children Under 18 Years; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0190008 + P0190012 + P0190015;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH31_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Family Households W/Own Children Under 18 Years; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0190006;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH32_N</attrlabl>
+<attrdef>DESCRIPTION: Population in Family Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0290003;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH32_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Population in Family Households: Population in Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0290002;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH33_N</attrlabl>
+<attrdef>DESCRIPTION: Population in Non-Family Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0290018;</attrdef>
+</attr>
+<attr>
+<attrlabl>HH33_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Population in Non-Family Households: Population in Households; CENSUS TABLE TYPE: Population; SOURCE SF1 CENSUS TABLE(S): P0290002;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU1</attrlabl>
+<attrdef>DESCRIPTION: Total Housing Units ; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H00010001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU2_N</attrlabl>
+<attrdef>DESCRIPTION: Urban Housing Units ; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0020002; Data not yet Provided by Census</attrdef>
+</attr>
+<attr>
+<attrlabl>HU2_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Urban Housing Units: Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0020001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU3_N</attrlabl>
+<attrdef>DESCRIPTION: Rural Housing Units ; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0020005; Data not yet Provided by Census</attrdef>
+</attr>
+<attr>
+<attrlabl>HU3_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Rural Housing Units: Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0020001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU4_N</attrlabl>
+<attrdef>DESCRIPTION: Occupied Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0030002;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU4_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Occupied Housing Units: Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0030001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU5_N</attrlabl>
+<attrdef>DESCRIPTION: Vacant Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0030003;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU5_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Vacant Housing Units: Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0030001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU6_N</attrlabl>
+<attrdef>DESCRIPTION: Owner Occupied Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0040002 + H0040003;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU6_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Owner Occupied Housing Units: Occupied Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0040001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU7_N</attrlabl>
+<attrdef>DESCRIPTION: Renter Occupied Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0040004;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU7_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Renter Occupied Housing Units: Occupied Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0040001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU8_N</attrlabl>
+<attrdef>DESCRIPTION: Vacant Housing Units for Rent; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0050002;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU8_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Vacant Housing Units for Rent: Vacant Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0050001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU9_N</attrlabl>
+<attrdef>DESCRIPTION: Vacant Housing Units for Sale; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0050004;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU9_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Vacant Housing Units for Sale: Vacant Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0050001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU10_N</attrlabl>
+<attrdef>DESCRIPTION: Vacant Housing Units for Seasonal Use; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0050006;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU10_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Vacant Housing Units for Seasonal Use: Total Vacant Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0050001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU11_N</attrlabl>
+<attrdef>DESCRIPTION: Population in Black or African American Owner-Occupied Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H011B0002+H011B0003;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU11_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Black or African American Owner-Occupied Housing Units: Population in An Occupied Housing Unit Where the Householder is Black/African American Alone; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H011B0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU12_N</attrlabl>
+<attrdef>DESCRIPTION: Population in American Indian and Alaska Native Owner-Occupied Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H011C0002+H011C0003;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU12_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Population in American Indian and Alaska Native Owner-Occupied Housing Units: Population in An Occupied Housing Unit Where the Householder is American Indian and Alaska Native Alone; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H011C0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU13_N</attrlabl>
+<attrdef>DESCRIPTION: Population in Asian Owner-Occupied Housing Units ; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H011D0002+H011D0003;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU13_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Population in Asian Owner-Occupied Housing Units: Population in An Occupied Housing Unit Where the Householder is Asian Alone; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H011D0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU14_N</attrlabl>
+<attrdef>DESCRIPTION: Population in Asian and Native Hawaiian and Other Pacific Islander Owner-Occupied Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H011D0002+H011D0003+H011E0002+H011E0003;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU14_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Population in Asian and Native Hawaiian and Other Pacific Islander Owner-Occupied Housing Units: Population in Occupied Housing Units Where Householder is Asian and Native Hawaiian and Other Pacific Islander Alone; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H011D0001+H011E0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU15_N</attrlabl>
+<attrdef>DESCRIPTION: Population in Native Hawaiian and Other Pacific Islander Owner-Occupied Housing Units ; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H011E0002+H011E0003;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU15_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Population in Native Hawaiian and Other Pacific Islander Owner-Occupied Housing Units: Population in Occupied Housing Units Where the Householder is Native Hawaiian and Other Pacific Islander Alone; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H011E0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU16_N</attrlabl>
+<attrdef>DESCRIPTION: Population in Other Race Owner-Occupied Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H011F0002+H011F0003;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU16_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Population in Other Race Owner-Occupied Housing Units: Population in Occupied Housing Units Where the Householder is Other Race Alone; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H011F0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU17_N</attrlabl>
+<attrdef>DESCRIPTION: Population in Two or More Race Owner-Occupied Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H011G0002+H011G0003;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU17_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Population in Two or More Race Owner-Occupied Housing Units: Population in Occupied Housing Units Where the Householder is Two or More Races Alone; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H011G0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU18_N</attrlabl>
+<attrdef>DESCRIPTION: Population in Hispanic Owner-Occupied Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H011H0002+H011H0003;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU18_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Population in Hispanic Owner-Occupied Housing Units: Population in Occupied Housing Units Where Householder is Hispanic; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H011H0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU19_N</attrlabl>
+<attrdef>DESCRIPTION: Population in Non-Hispanic White Owner-Occupied Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H011I0002+H011I0003;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU19_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Population in Non-Hispanic White Owner-Occupied Housing Units: Population in Occupied Housing Units Where Householder is Non-Hispanic White; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H011I0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU20</attrlabl>
+<attrdef>DESCRIPTION: Average Household Size Of Owner Occupied Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0120002;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU21</attrlabl>
+<attrdef>DESCRIPTION: Average Household Size Of Renter Occupied Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0120003;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU22_N</attrlabl>
+<attrdef>DESCRIPTION: Owner Occupied Housing Units Black or African American Householder; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016B0002;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU22_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Owner Occupied Housing Units Black or African American Householder: Occupied Housing Units Where the Householder is Black or African American Alone; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016B0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU23_N</attrlabl>
+<attrdef>DESCRIPTION: Renter Occupied Housing Units Black or African American Householder; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016B0010;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU23_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Renter Occupied Housing Units Black or African American Householder: Occupied Housing Units Where the Householder is Black or African American; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016B0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU24_N</attrlabl>
+<attrdef>DESCRIPTION: Owner Occupied Housing Units American Indian and Alaska Native Householder ; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016C0002;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU24_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Owner Occupied Housing Units American Indian and Alaska Native Householder: Occupied Housing Units Where the Householder is American Indian and Alaska Native; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016C0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU25_N</attrlabl>
+<attrdef>DESCRIPTION: Renter Occupied Housing Units American Indian and Alaska Native Householder; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016C0010;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU25_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Renter Occupied Housing Units American Indian and Alaska Native Householder: Occupied Housing Units Where the Householder is American Indian and Alaska Native Alone; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016C0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU26_N</attrlabl>
+<attrdef>DESCRIPTION: Owner Occupied Housing Units Asian and Native Hawaiian and Other Pacific Islander Householder; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016D0002+H016E0002;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU26_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Owner Occupied Housing Units Asian and Native Hawaiian and Other Pacific Islander Householder: Occupied Housing Units Where the Householder is Asian and Native Hawaiian and Other Pacific Islander; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016D0001+H016E0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU27_N</attrlabl>
+<attrdef>DESCRIPTION: Renter Occupied Housing Units Asian and Native Hawaiian and Other Pacific Islander Householder; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016D0010+H016E0010;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU27_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Renter Occupied Housing Units Asian and Native Hawaiian and Other Pacific Islander Householder: Occupied Housing Units Where the Householder is Asian and Native Hawaiian and Other Pacific Islander; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016D0001+H016E0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU28_N</attrlabl>
+<attrdef>DESCRIPTION: Owner Occupied Housing Units Other Householder; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016F0002;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU28_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Owner Occupied Housing Units Other Householder: Occupied Housing Units Where the Householder is Other Race Alone; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016F0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU29_N</attrlabl>
+<attrdef>DESCRIPTION: Renter Occupied Housing Units Other Householder; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016F0010;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU29_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Renter Occupied Housing Units Other Householder: Occupied Housing Units Where the Householder is Other Race Alone; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016F0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU30_N</attrlabl>
+<attrdef>DESCRIPTION: Owner Occupied Housing Units Two or More Races Householder; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016G0002;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU30_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Owner Occupied Housing Units Two or More Races Householder: Occupied Housing Units Where the Householder is Two or More Races; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016G0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU31_N</attrlabl>
+<attrdef>DESCRIPTION: Renter Occupied Housing Units Two or More Races Householder; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016G0010;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU31_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Renter Occupied Housing Units Two or More Races Householder: Occupied Housing Units Where the Householder is Two or More Races; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016G0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU32_N</attrlabl>
+<attrdef>DESCRIPTION: Owner Occupied Housing Units Hispanic Householder; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016H0002;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU32_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Owner Occupied Housing Units Hispanic Householder: Occupied Housing Units Where Householder is Hispanic; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016H0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU33_N</attrlabl>
+<attrdef>DESCRIPTION: Renter Occupied Housing Units Hispanic Householder; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016H0010;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU33_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Renter Occupied Housing Units Hispanic Householder: Occupied Housing Units Where Householder is Hispanic; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016H0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU34_N</attrlabl>
+<attrdef>DESCRIPTION: Owner Occupied Housing Units Non-Hispanic White Householder; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016I0002;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU34_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Owner Occupied Housing Units Non-Hispanic White Householder: Occupied Housing Units Where the Householder is Non-Hispanic White; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016I0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU35_N</attrlabl>
+<attrdef>DESCRIPTION: Renter Occupied Housing Units Non-Hispanic White Householder; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016I0010;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU35_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Renter Occupied Housing Units Non-Hispanic White Householder: Occupied Housing Units Where the Householder is Non-Hispanic White; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016I0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU36_N</attrlabl>
+<attrdef>DESCRIPTION: Owner Occupied Units Householder Age 65 and Over ; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0170009 + H0170010 + H0170011;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU36_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Owner Occupied Units Householder Age 65 and Over: Owner Occupied Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0170002;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU37_N</attrlabl>
+<attrdef>DESCRIPTION: Renter Occupied Units Householder Age 65 and Over ; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0170019 + H0170020 + H0170021;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU37_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Renter Occupied Units Householder Age 65 and Over: Renter Occupied Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0170012;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU38_N</attrlabl>
+<attrdef>DESCRIPTION: Population in Owner Occupied Housing Unit; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0110002+H0110003;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU38_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Population in Owner Occupied Housing Unit: Population in Occupied Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0110001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU39_N</attrlabl>
+<attrdef>DESCRIPTION: Population in Renter Occupied Housing Unit; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0110004;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU39_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Population in Renter Occupied Housing Unit: Population in Occupied Housing Units; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H0110001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU40_N</attrlabl>
+<attrdef>DESCRIPTION: Owner Occupied Housing Units Asian Householder; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016D0002;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU40_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Owner Occupied Housing Units Asian Householder: Occupied Housing Units Where the Householder is Asian Alone; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016D0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU41_N</attrlabl>
+<attrdef>DESCRIPTION: Renter Occupied Housing Units Asian Householder; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016D0010;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU41_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Renter Occupied Housing Units Asian Householder: Occupied Housing Units Where the Householder is Asian Alone; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016D0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU42_N</attrlabl>
+<attrdef>DESCRIPTION: Owner Occupied Housing Units Native Hawaiian and Other Pacific Islanders Householder; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016E0002;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU42_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Owner Occupied Housing Units Native Hawaiian and Other Pacific Islanders Householder: Occupied Housing Units Where the Householder is Native Hawaiian and Other Pacific Islander Alone; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016E0001;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU43_N</attrlabl>
+<attrdef>DESCRIPTION: Renter Occupied Housing Units Native Hawaiian and Other Pacific Islanders Householder; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016E0010;</attrdef>
+</attr>
+<attr>
+<attrlabl>HU43_D</attrlabl>
+<attrdef>DESCRIPTION: Denominator for Renter Occupied Housing Units Native Hawaiian and Other Pacific Islanders Householder: Occupied Housing Units Where the Householder is Native Hawaiian and Other Pacific Islander Alone; CENSUS TABLE TYPE: Housing; SOURCE SF1 CENSUS TABLE(S): H016E0001;</attrdef>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>University of Rhode Island Environmental Data Center</cntorg>
+<cntper>Erica Tefft</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>1 Greenhouse Road</address>
+<city>Kingston</city>
+<state>RI</state>
+<postal>02881</postal>
+</cntaddr>
+<cntvoice>401-874-5054</cntvoice>
+<cntemail>erica@edc.uri.edu</cntemail>
+<cntinst>email preferred</cntinst>
+</cntinfo>
+</distrib>
+<distliab>This dataset is provided 'as is.'  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>Esri shapefile</formname>
+<filedec>ZIP</filedec>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>http://www.rigis.org</networkr>
+</networka>
+</computer>
+</onlinopt>
+</digtopt>
+</digform>
+<fees>No fee for downloading directly from the RIGIS Data Distribution System located at http://www.rigis.org.</fees>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20120309</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>University of Rhode Island Environmental Data Center</cntorg>
+<cntper>Greg Bonynge</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>1 Greenhouse Road</address>
+<city>Kingston</city>
+<state>RI</state>
+<postal>02881</postal>
+</cntaddr>
+<cntvoice>401-874-2180</cntvoice>
+<cntemail>greg@edc.uri.edu</cntemail>
+<cntinst>email preferred</cntinst>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>
