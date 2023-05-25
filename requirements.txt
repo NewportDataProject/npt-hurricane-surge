@@ -27,4 +27,4 @@ scipy==0.19.0
 Shapely==1.5.17.post1
 six==1.10.0
 SQLAlchemy==1.1.5
-tornado==4.5.1
+tornado==6.3.2
